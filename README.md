@@ -1,2 +1,2 @@
 # Challenges_JULY
-Repositorio de 21 challenges del mes de Julio
+Repositorio de 21 challenges del mes de Julio 2024
